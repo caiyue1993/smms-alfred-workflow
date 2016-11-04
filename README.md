@@ -10,8 +10,8 @@
 	- Make sure your ruby has installed rest-client gem and JSON gem.
 	- Open smms.rb and relace "/Users/caiyue/Desktop/" to the path of your wait-for-upload picture. 
 	
-## To dp
-- Now it's only support png file which name is number
+## To do
+- Now it's only support png image which name is number
 - The code isn't beautiful 
 
  
