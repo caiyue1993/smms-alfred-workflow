@@ -9,7 +9,7 @@
 - Let's make customization before it can work:
 	- Configure Script Filter and replace /Users/caiyue/.rvm/rubies/ruby-2.2.2/bin/ruby to your own ruby path.
 	- Make sure your ruby has installed rest-client gem and JSON gem.
-	- Open smms.rb and relace "/Users/caiyue/Desktop/" to the path of your wait-for-upload picture. 
+	- Open smms.rb in alfred and relace "/Users/caiyue/Desktop/" to the path of your wait-for-upload picture. 
 	
 ## To do
 - Now it's only support png image which name is number
