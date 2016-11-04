@@ -12,7 +12,7 @@
 	- Open smms.rb in alfred and relace "/Users/caiyue/Desktop/" to the path of your wait-for-upload picture. 
 	
 ## To do
-- Now it's only support png image which name is number
+- Now it's only support png image 
 - The code isn't beautiful 
 
  
