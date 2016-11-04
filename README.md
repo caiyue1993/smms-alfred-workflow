@@ -1,5 +1,5 @@
 ## Preview
-![](http://gph.is/2fiK0Jj)
+![](https://media.giphy.com/media/3oz8xPJXSfxfynUUTu/source.gif)
 
 ## Something you should know
  This repository is for pulling request, click [here](https://github.com/caiyue1993/smms-alfred-workflow/releases) if you want to download it directly. 
