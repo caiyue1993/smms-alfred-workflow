@@ -1,5 +1,5 @@
 ## Preview
-![](http://ww2.sinaimg.cn/large/9cd5b17egw1f9g7m45iwxg20jg0c6u0z.gif)
+![](http://ww1.sinaimg.cn/large/9cd5b17egw1f9gd9pr81fg20jg0c6u0z.gif)
 
 ## Something you should know
  This repository is for pulling request, click [here](https://github.com/caiyue1993/smms-alfred-workflow/releases) if you want to download it directly. 
