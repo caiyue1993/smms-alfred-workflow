@@ -8,13 +8,13 @@ require 'json'
 
 filename = ARGV[0].to_i
 
-filePath = "/Users/caiyue/Desktop/" << "#{filename}" << ".png"
+filePath = "/Users/caiyue/Desktop/#{filename}.png"
 content = File.open(filePath)
 response = RestClient.post 'https://sm.ms/api/upload',{smfile: content}
 returnData = JSON.parse(response)
 
 url = returnData["data"]["url"]
-mdAddress = "![](" << url << ")"
+mdAddress = "![](#{url})"
 
 xml = <<EOS
 <xml>
