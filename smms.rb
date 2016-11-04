@@ -6,7 +6,7 @@ Contact me at https://github.com/caiyue1993/smms-alfred-workflow or visit my blo
 require 'rest-client'
 require 'json'
 
-filename = ARGV[0].to_i
+filename = ARGV[0]
 
 filePath = "/Users/caiyue/Desktop/#{filename}.png"
 content = File.open(filePath)
