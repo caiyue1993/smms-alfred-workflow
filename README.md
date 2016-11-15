@@ -9,10 +9,10 @@
 
 ## Let's make customization before it can actually work:
 - Configure Script Filter and replace "/Users/caiyue/.rvm/rubies/ruby-2.2.2/bin/ruby" with your own ruby path.
-![](http://ooo.0o0.ooo/2016/11/15/582aeb3b08b73.png)
+![](http://ooo.0o0.ooo/2016/11/15/582aeb3b08b73.png | width=200)
 - Make sure your ruby has installed rest-client gem and JSON gem.
 - Open smms.rb in alfred and replace Line 11 "/Users/caiyue/Desktop/" with the path of your wait-for-upload picture.
-![](http://ooo.0o0.ooo/2016/11/15/582aea3999be4.png)
+![](http://ooo.0o0.ooo/2016/11/15/582aea3999be4.png | width=200)
 
 ## Issues that already know
 - Sm.ms only support image which size less than 5 mb
