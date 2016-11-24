@@ -22,3 +22,6 @@
 ## To do
 - Now it's only support png image
 - The code isn't beautiful
+
+## Lisence
+This project is available under the [MIT License](https://opensource.org/licenses/MIT). See the LICENSE file for more info.
